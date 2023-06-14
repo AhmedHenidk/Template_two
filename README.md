@@ -1,3 +1,4 @@
-# Templete_two (Kasper)
-<h1>Web app static by html-css (As training)</h1>
+# Templete_two
+<h3>Web app static</h3>
+created with html and css (As training)
 
